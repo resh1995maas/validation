@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(../images/bakgroundimgs/backgroundimg22.jpg);
+    background-position:fixed;
+    background-size: cover;
+}
+
+nav{
+    font-weight: 700;
+    font-style: italic;
+    font-family: cursive;
+    font-size: larger;
+}
+    
+nav a{
+    margin-right: 10%;
+    float: left;
+    padding: 5%;
+}
+
+form{
+    
+    width: 40%;
+    border: 1px solid black;
+    color: white;
+    
+    position: absolute;
+    
+    top: 20%;
+    left: 30%;
+    
+    
+}
+.nav-item>a{
+    color: white;
+   
+    
+}
+.nav-item>a:hover{
+    color:red;
+   
+    
+}
+
+nav li{
+    padding: 10px;
+    text-align: center;
+    right: 15%;
+    position: relative;
+    margin-right: 50%;
+    margin-left: 5%;
+    font: 1em sans-serif;
+    font-weight: 20;
+   
+
+}
+#sticky-footer{
+    margin-top: 5px;
+    
+
+
+}
+

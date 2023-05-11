@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ /* body{
+    background-image: url(../images/bakgroundimgs/backgroundimg12.jpg);
+    background-position: fixed;
+    background-size: cover;
+}  */
+nav{
+    font-weight: 700;
+    font-style: italic;
+    font-family: cursive;
+    font-size: larger;
+}
+    
+nav a{
+    margin-right: 10%;
+    float: left;
+    padding: 5%;
+}
+.card-title{
+    text-align: center;
+    font-family:cursive;
+    
+
+    top: 30%;
+    right: 35%;
+
+    position: absolute;
+}
+/* h3{
+    color: #000;
+    animation-duration: 4s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+} */
+button{
+    text-align: center;
+    
+    
+
+    top: 35%;
+    right: 48%;
+
+    position: absolute;
+
+}
+.nav-item>a{
+    color: white;
+   
+    
+}
+.nav-item>a:hover{
+    color:red;
+   
+    
+}
+
+nav li{
+    padding: 10px;
+    text-align: center;
+    right: 15%;
+    position: relative;
+    margin-right: 50%;
+    margin-left: 5%;
+    font: 1em sans-serif;
+    font-weight: 20;
+   
+
+}
+#sticky-footer{
+    margin-top: 5px;
+    /* height: 100px;
+     */
+
+
+}
